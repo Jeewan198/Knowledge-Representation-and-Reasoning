@@ -29,10 +29,11 @@ Ensure you have Python 3.13.7 (or a compatible 3.x version) installed.
 
 ### 2. Clone the Repository
 git clone https://github.com/Jeewan198/Knowledge-Representation-and-Reasoning.git
+
 cd Knowledge-Representation-and-Reasoning
 
 ### 3. Install Dependencies
-`pip install -r requirements.txt`\
+`pip install -r requirements.txt`
 
 ### 4. Asset Requirements
 Ensure the following image files are located in the root directory for the GUI to render correctly:
