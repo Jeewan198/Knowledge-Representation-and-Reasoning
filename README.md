@@ -28,8 +28,8 @@ This repository contains the source code for a Knowledge Representation and Reas
 Ensure you have Python 3.13.7 (or a compatible 3.x version) installed.
 
 ### 2. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Jeewan198/Knowledge-Representation-and-Reasoning.git
+cd Knowledge-Representation-and-Reasoning
 
 ### 3. Install Dependencies
 `pip install -r requirements.txt`\
